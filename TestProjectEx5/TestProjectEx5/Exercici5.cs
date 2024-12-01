@@ -5,7 +5,7 @@ namespace TestProjectEx5
 {
     public class Exercici5
     {
-        //com el metodes no són estàtic em donaba error i vaig buscar como solucionar-ho i em va sortir que havia d'instanciar
+        //com els metodes no són estàtic em donaba error i vaig buscar como solucionar-ho i em va sortir que havia d'instanciar
         [Fact]
         public void ClassifyAgeTest1()
         {

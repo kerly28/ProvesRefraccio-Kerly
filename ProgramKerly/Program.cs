@@ -1,7 +1,7 @@
 ﻿using Utils2;
 using System;
 
-namespace Activitat
+namespace ProgramKerly
 {
     public class ProvesRefraccio
     {
