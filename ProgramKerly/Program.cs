@@ -1,6 +1,6 @@
 using System;
 
-namespace Activitat
+namespace ProgramKerly
 {
     public class ProvesRefraccio
     {

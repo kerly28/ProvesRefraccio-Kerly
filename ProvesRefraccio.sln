@@ -5,9 +5,9 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Utils2", "Utils2\Utils2.csproj", "{FF874E73-CAA6-4FA0-B121-05366592664A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramKerly", "ProgramKerly\ProgramKerly.csproj", "{D057AFDA-84A1-44E5-B37B-DC65BF67111B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgramKerly", "ProgramKerly\ProgramKerly.csproj", "{D057AFDA-84A1-44E5-B37B-DC65BF67111B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject2", "TestProject2\TestProject2.csproj", "{BEF40600-01C2-4AD6-819E-45AD0241E64B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject2", "TestProject2\TestProject2.csproj", "{BEF40600-01C2-4AD6-819E-45AD0241E64B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
