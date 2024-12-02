@@ -1,6 +1,10 @@
 # ProvesRefraccio-Kerly
 
-## Enllaç video
+## Exercicis escrits 
+
+link: https://github.com/kerly28/ProvesRefraccio-Kerly/blob/fcc9dc2efbb0938e7e36deb9c619b754c7e13a4a/ExercicisEscritsKerly.md
+
+## Enllaços videos
 **Que ès CI i CD? Exemple de implementació al Git-Hub amb una solució de C#**
 link: https://www.youtube.com/watch?v=v--7Z1jnzXM
 
