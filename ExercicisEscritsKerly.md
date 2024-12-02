@@ -220,13 +220,13 @@ namespace Activitat
                 Console.WriteLine($"{areaRec}{area}");
 
                 // Invocar el mètode per avaluar l'àrea del rectangle
-                string rankArea = MyUtils.EvalueArea((int)area); // Pasamos el área real aquí
+                string rankArea = MyUtils.EvalueArea((int)area); // Pasem l'àrea real aquí
                 Console.WriteLine(rankArea);
 
                 // Invocar els mètodes per obtenir la circumferència del cercle
                 Console.WriteLine(radiusCercle);
                 double radiusCercleValue = Convert.ToDouble(Console.ReadLine());
-                double circum = MyUtils.CirCerc(radiusCercleValue); // Llamamos al método estático
+                double circum = MyUtils.CirCerc(radiusCercleValue); // invoquem el mètode estàtic
                 Console.WriteLine($"{circumCerc}{circum}");
             }
             catch (FormatException)
